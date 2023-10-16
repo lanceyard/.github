@@ -1,12 +1,24 @@
-## Hi there 👋
+## Lancey's wednesday quote
 
-<!--
+```plaintext
+ ____________________________________ 
+/ You will gain money by a fattening \
+\ action.                            /
+ ------------------------------------ 
+      \                _
+       \              (_)   <-- TeleBEARS
+        \   ^__^       / \
+         \  (oo)\_____/_\ \
+            (__)\  you  ) /
+                ||----w ((
+                ||     ||>> 
+```
+## Overview
 
-**Here are some ideas to get you started:**
+Lanceyard is actually just an organization (read: place) to dump all your projects.
+We initially created this for our freelance projects, but whatever. We do what we do I guess?
+> we create ass projects :)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Documentation 
+
+Each project should have their own documentation, so look for yourself.
